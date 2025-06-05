@@ -38,7 +38,7 @@ Projeto de aprendizado desenvolvido a partir do canal [Pivotalstats](https://www
 6. Visualizar dados de previsão no Power BI.
 
 ### Analise descritiva
-![alt text](resumo.png)
+![alt text](Resumo.png)
 - A porcentagem de clientes em churn representa 27% do total;
 - O Churn Rate se manteve constante ao longo dos meses, entre 26% a 30%;
 - O principal motivo de churn está relacionado ao método de pagamento (boleto) e ao tipo de contrato mensal, ambos oferecendo mais liberdade para o cancelamento;
@@ -47,7 +47,7 @@ Projeto de aprendizado desenvolvido a partir do canal [Pivotalstats](https://www
 
 
 ### Analise preditiva
-![alt text](previsão.png)
+![alt text](Previsão.png)
 - O modelo de Machine Learning identificou 389 potenciais casos de churn, representando uma possível perda de R$ 44.402,88.
 - Diferente da análise descritiva, a maior parte de clientes utilizam pagamento por cartão de crédito.
 - O perfil predominante de risco envolve clientes com contratos mensais, confirmando a tendência observada na análise descritiva.
