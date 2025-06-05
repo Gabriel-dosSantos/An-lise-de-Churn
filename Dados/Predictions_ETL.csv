@@ -1,0 +1,390 @@
+ID_Cliente;Genero;Idade;Casado;Estado;Numero_de_Indicacoes;Tempo_de_Contrato_Meses;Valor_de_Oferta;Servico_Telefonico;Multiplas_Linhas;Servico_de_Internet;Tipo_de_Internet;Seguranca_Online;Backup_Online;Protecao_de_Dispositivo;Suporte_Premium;TV_Stream;Filmes_Stream;Musica_Stream;Dados_Ilimitados;Contrato;Fatura_Digital;Metodo_Pagamento;Valor_Mensal;Total_Cobrado;Total_Reembolsado;Total_Cobrancas_Extras_Dados;Total_Cobrancas_LD;Receita_Total;Status_Cliente;Categoria_Churn;Motivo_Churn;Customer_Status_Predicted
+12340-DEL;Feminino;51;Sim;Delhi;0;10;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Cartão de Crédito;62,8;62,8;0;0;42,19;104,99;Ingressou;Outros;Outros;1
+12469-AND;Masculino;24;Sim;Andhra Pradesh;11;4;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;55,3;55,3;0;0;36,69;91,99;Ingressou;Outros;Outros;1
+12490-TEL;Feminino;52;Não;Telangana;9;6;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Sim;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cheque;74,75;238,1;38,84;0;37,5;236,76;Ingressou;Outros;Outros;1
+13666-UTT;Masculino;57;Sim;Uttarakhand;15;16;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Sim;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Não;Débito em Conta;95,4;293,15;0;0;51,03;344,18;Ingressou;Outros;Outros;1
+13744-AND;Feminino;41;Sim;Andhra Pradesh;8;3;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;19,65;19,65;0;0;13,85;33,5;Ingressou;Outros;Outros;1
+13823-TEL;Feminino;31;Sim;Telangana;1;28;Oferta 5;Não;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;24,5;46,4;0;0;0;46,4;Ingressou;Outros;Outros;1
+16032-AND;Feminino;47;Não;Andhra Pradesh;8;18;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;46,6;87,9;0;0;3,74;91,64;Ingressou;Outros;Outros;1
+16068-BIH;Feminino;44;Sim;Bihar;4;25;Oferta 5;Não;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;25,25;25,25;0;10;0;35,25;Ingressou;Outros;Outros;1
+16733-ODI;Feminino;76;Sim;Odisha;10;1;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;45,85;45,85;0;0;40,38;86,23;Ingressou;Outros;Outros;1
+16764-WES;Masculino;40;Não;West Bengal;15;13;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,8;20,8;0;0;48,14;68,94;Ingressou;Outros;Outros;1
+17597-HAR;Feminino;33;Sim;Haryana;2;6;Oferta 5;Não;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;29,85;29,85;0;0;0;29,85;Ingressou;Outros;Outros;1
+18829-TAM;Feminino;49;Sim;Tamil Nadu;4;31;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;18,8;56;0;0;19,83;75,83;Ingressou;Outros;Outros;1
+19539-PUN;Feminino;37;Sim;Punjab;14;8;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;45,4;45,4;0;0;49,33;94,73;Ingressou;Outros;Outros;1
+19541-ODI;Feminino;37;Sim;Odisha;15;14;Oferta 5;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;45,25;74,2;0;0;79;153,2;Ingressou;Outros;Outros;1
+21165-DEL;Feminino;38;Não;Delhi;2;32;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,95;38,15;0;0;69,14;107,29;Ingressou;Outros;Outros;1
+21247-ASS;Masculino;58;Sim;Assam;2;2;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,5;19,5;0;0;8,02;27,52;Ingressou;Outros;Outros;1
+12056-WES;Masculino;27;Não;West Bengal;2;20;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Sim;Sim;Não;Não;Sim;Sim;Sim;Mês-a-mês;Não;Débito em Conta;90,4;268,45;0;0;94,44;362,89;Ingressou;Outros;Outros;1
+12136-RAJ;Feminino;25;Sim;Rajasthan;2;35;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,9;19,9;0;0;11,83;31,73;Ingressou;Outros;Outros;1
+13058-MAD;Feminino;58;Não;Madhya Pradesh;13;22;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cheque;46,1;130,15;0;0;7,98;138,13;Ingressou;Outros;Outros;1
+13123-BIH;Feminino;46;Não;Bihar;13;18;Oferta 5;Sim;Não;Sim;Fibra Óptica;Sim;Sim;Não;Não;Sim;Sim;Sim;Não;Mês-a-mês;Não;Débito em Conta;100,2;198,5;0;10;45,12;253,62;Ingressou;Outros;Outros;1
+13946-HAR;Feminino;41;Sim;Haryana;1;3;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,65;19,65;0;0;23,67;43,32;Ingressou;Outros;Outros;1
+15803-UTT;Feminino;34;Não;Uttar Pradesh;6;31;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,15;19,15;0;0;22,37;41,52;Ingressou;Outros;Outros;1
+17154-HAR;Masculino;32;Não;Haryana;13;4;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cheque;18,8;18,8;0;0;43,57;62,37;Ingressou;Outros;Outros;1
+17250-HAR;Feminino;23;Sim;Haryana;12;2;Nenhum;Sim;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;49,25;97;0;0;81,5;178,5;Ingressou;Outros;Outros;1
+18015-ODI;Feminino;28;Sim;Odisha;15;9;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;49,9;49,9;0;0;14,93;64,83;Ingressou;Outros;Outros;1
+11751-TAM;Feminino;18;Não;Tamil Nadu;5;7;Oferta 5;Não;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cheque;24,3;38,45;0;0;0;38,45;Ingressou;Outros;Outros;1
+15591-KAR;Feminino;26;Não;Karnataka;3;31;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,4;20,4;0;0;45,91;66,31;Ingressou;Outros;Outros;1
+16244-UTT;Feminino;19;Sim;Uttar Pradesh;5;7;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,55;19,55;0;0;5,1;24,65;Ingressou;Outros;Outros;1
+16931-BIH;Feminino;39;Sim;Bihar;8;23;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,3;19,3;0;0;8,66;27,96;Ingressou;Outros;Outros;1
+17796-BIH;Feminino;65;Não;Bihar;5;1;Nenhum;Sim;Não;Sim;Cabo;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;48,45;48,45;0;0;16,42;64,87;Ingressou;Outros;Outros;1
+19898-HAR;Masculino;31;Sim;Haryana;3;30;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,45;19,45;0;0;29,15;48,6;Ingressou;Outros;Outros;1
+21642-TEL;Masculino;60;Sim;Telangana;12;29;Nenhum;Sim;Não;Sim;ADSL;Sim;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;54,5;54,5;0;0;33,21;87,71;Ingressou;Outros;Outros;1
+23256-HAR;Feminino;32;Sim;Haryana;10;31;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,85;52;0;0;72,1;124,1;Ingressou;Outros;Outros;1
+24696-BIH;Feminino;69;Sim;Bihar;0;20;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;43,95;85,1;0;0;38,18;123,28;Ingressou;Outros;Outros;1
+24754-AND;Feminino;63;Sim;Andhra Pradesh;0;28;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;69,55;200,2;33,8;0;5,01;171,41;Ingressou;Outros;Outros;1
+24990-WES;Feminino;36;Não;West Bengal;8;24;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;71,65;135,75;0;0;58,06;193,81;Ingressou;Outros;Outros;1
+26500-GUJ;Feminino;62;Sim;Gujarat;3;19;Oferta 5;Sim;Não;Sim;Cabo;Sim;Não;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Sim;Cheque;62,15;113,1;0;0;96,78;209,88;Ingressou;Outros;Outros;1
+26567-UTT;Feminino;67;Sim;Uttar Pradesh;1;35;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Dois Anos;Não;Cartão de Crédito;20,35;20,35;0;0;30,09;50,44;Ingressou;Outros;Outros;1
+27856-UTT;Feminino;33;Sim;Uttar Pradesh;1;32;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;19,25;19,25;0;0;9,44;28,69;Ingressou;Outros;Outros;1
+28681-HAR;Feminino;33;Não;Haryana;4;2;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Sim;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;75,55;75,55;0;0;7,11;82,66;Ingressou;Outros;Outros;1
+29626-WES;Masculino;67;Não;West Bengal;10;22;Oferta 5;Sim;Não;Sim;ADSL;Sim;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;50,15;50,15;0;50;38,33;138,48;Ingressou;Outros;Outros;1
+12257-ASS;Feminino;39;Não;Assam;9;1;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,55;19,55;0;0;10,2;29,75;Ingressou;Outros;Outros;1
+14567-TAM;Masculino;43;Não;Tamil Nadu;1;9;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,35;20,35;0;0;44,09;64,44;Ingressou;Outros;Outros;1
+15349-UTT;Masculino;47;Sim;Uttar Pradesh;9;12;Oferta 5;Sim;Sim;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;50,15;50,15;0;0;39,87;90,02;Ingressou;Outros;Outros;1
+18027-UTT;Feminino;58;Sim;Uttar Pradesh;15;30;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,9;33,7;0;0;7,64;41,34;Ingressou;Outros;Outros;1
+18415-KAR;Feminino;33;Sim;Karnataka;7;36;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;19,1;19,1;0;0;5,02;24,12;Ingressou;Outros;Outros;1
+19041-AND;Feminino;36;Não;Andhra Pradesh;6;21;Oferta 5;Não;Não;Sim;Cabo;Sim;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;35,1;101,1;0;0;0;101,1;Ingressou;Outros;Outros;1
+19747-WES;Feminino;47;Não;West Bengal;15;19;Oferta 5;Sim;Não;Sim;ADSL;Sim;Não;Não;Sim;Não;Sim;Sim;Não;Mês-a-mês;Sim;Débito em Conta;64,5;177,4;0;60;118,65;356,05;Ingressou;Outros;Outros;1
+19811-MAH;Feminino;35;Sim;Maharashtra;10;7;Oferta 5;Sim;Não;Sim;Fibra Óptica;Sim;Sim;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;89,85;248,4;0;0;99,9;348,3;Ingressou;Outros;Outros;1
+19837-TAM;Feminino;57;Sim;Tamil Nadu;4;6;Nenhum;Não;Não;Sim;Cabo;Não;Sim;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Não;Débito em Conta;51,4;96,8;0;0;0;96,8;Ingressou;Outros;Outros;1
+21288-MAH;Feminino;63;Não;Maharashtra;12;34;Nenhum;Sim;Sim;Sim;ADSL;Não;Não;Não;Não;Sim;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;60,25;170,5;0;70;60,3;300,8;Ingressou;Outros;Outros;1
+22137-KAR;Feminino;51;Não;Karnataka;4;28;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cartão de Crédito;19,85;19,85;0;0;47,46;67,31;Ingressou;Outros;Outros;1
+23605-MAH;Feminino;31;Sim;Maharashtra;1;19;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,75;20,75;0;0;7,57;28,32;Ingressou;Outros;Outros;1
+23632-HAR;Feminino;37;Sim;Haryana;2;16;Oferta 5;Sim;Não;Sim;Fibra Óptica;Sim;Não;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Não;Débito em Conta;97,1;184,15;0;0;78,7;262,85;Ingressou;Outros;Outros;1
+25517-RAJ;Feminino;40;Não;Rajasthan;4;10;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Não;Sim;Não;Sim;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;91,45;171,45;0;10;98,82;280,27;Ingressou;Outros;Outros;1
+27461-MAD;Masculino;22;Sim;Madhya Pradesh;7;6;Oferta 5;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;44,55;44,55;0;0;23,04;67,59;Ingressou;Outros;Outros;1
+27465-JAM;Feminino;50;Não;Jammu & Kashmir;10;30;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,85;19,85;0;0;16,47;36,32;Ingressou;Outros;Outros;1
+28237-JHA;Feminino;52;Não;Jharkhand;7;9;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;69,85;199,85;0;0;104,28;304,13;Ingressou;Outros;Outros;1
+28239-UTT;Feminino;55;Sim;Uttar Pradesh;0;5;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,95;19,95;0;0;38,84;58,79;Ingressou;Outros;Outros;1
+28266-JAM;Masculino;32;Não;Jammu & Kashmir;6;1;Nenhum;Não;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;25,35;25,35;0;0;0;25,35;Ingressou;Outros;Outros;1
+28281-KAR;Masculino;56;Sim;Karnataka;8;32;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;80,35;253,8;0;0;148,89;402,69;Ingressou;Outros;Outros;1
+29093-ASS;Masculino;57;Sim;Assam;6;6;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cheque;20,45;20,45;0;0;11,61;32,06;Ingressou;Outros;Outros;1
+19998-AND;Feminino;18;Não;Andhra Pradesh;0;2;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Sim;Não;Não;Sim;Sim;Sim;Mês-a-mês;Não;Cartão de Crédito;85,7;256,75;0;0;89,52;346,27;Ingressou;Outros;Outros;1
+21065-HAR;Masculino;27;Não;Haryana;5;10;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,3;20,3;0;0;10,84;31,14;Ingressou;Outros;Outros;1
+21956-JHA;Feminino;59;Sim;Jharkhand;10;8;Nenhum;Sim;Não;Sim;Fibra Óptica;Sim;Não;Não;Sim;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;82,3;214,4;0;20;134,91;369,31;Ingressou;Outros;Outros;1
+22119-WES;Masculino;31;Sim;West Bengal;5;5;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,05;33,7;0;0;3,62;37,32;Ingressou;Outros;Outros;1
+23078-UTT;Feminino;57;Sim;Uttar Pradesh;3;24;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;20,3;20,3;0;0;6,64;26,94;Ingressou;Outros;Outros;1
+23148-CHH;Feminino;74;Sim;Chhattisgarh;4;9;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Dois Anos;Não;Débito em Conta;44;44;0;0;28,67;72,67;Ingressou;Outros;Outros;1
+23855-MAH;Feminino;53;Sim;Maharashtra;13;9;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;44,9;111,05;0;0;10,16;121,21;Ingressou;Outros;Outros;1
+25048-TEL;Masculino;47;Não;Telangana;15;9;Oferta 5;Sim;Sim;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;24;24;0;0;32,95;56,95;Ingressou;Outros;Outros;1
+25733-HAR;Feminino;80;Não;Haryana;8;33;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Sim;Não;Sim;Sim;Não;Não;Um Ano;Sim;Cartão de Crédito;95,5;181,65;0;10;66,2;257,85;Ingressou;Outros;Outros;1
+25763-JHA;Feminino;47;Sim;Jharkhand;9;3;Oferta 5;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;44,15;44,15;0;0;9,82;53,97;Ingressou;Outros;Outros;1
+26902-TEL;Masculino;52;Sim;Telangana;7;2;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Sim;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;95,85;95,85;0;0;2,7;98,55;Ingressou;Outros;Outros;1
+28782-PUN;Masculino;58;Sim;Punjab;8;7;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cheque;44,95;44,95;0;0;13,63;58,58;Ingressou;Outros;Outros;1
+28873-TAM;Masculino;55;Não;Tamil Nadu;7;4;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;74,95;151,75;0;0;7,52;159,27;Ingressou;Outros;Outros;1
+29525-TAM;Feminino;50;Sim;Tamil Nadu;9;3;Oferta 5;Não;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;25;78,25;0;0;0;78,25;Ingressou;Outros;Outros;1
+31129-AND;Masculino;68;Não;Andhra Pradesh;15;15;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;70,35;70,35;0;10;14,42;94,77;Ingressou;Outros;Outros;1
+32563-KAR;Feminino;34;Sim;Karnataka;3;22;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;69,8;146,65;0;10;22,38;179,03;Ingressou;Outros;Outros;1
+32586-UTT;Feminino;25;Não;Uttar Pradesh;15;10;Nenhum;Sim;Sim;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;-8;25,75;0;0;15,22;40,97;Ingressou;Outros;Outros;1
+32587-UTT;Feminino;30;Não;Uttar Pradesh;1;27;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;45,45;141,7;0;0;61,11;202,81;Ingressou;Outros;Outros;1
+34024-AND;Feminino;45;Sim;Andhra Pradesh;4;21;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,05;20,05;0;0;7,66;27,71;Ingressou;Outros;Outros;1
+34713-KER;Masculino;58;Sim;Kerala;1;29;Oferta 5;Sim;Sim;Sim;Fibra Óptica;Sim;Não;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Não;Cartão de Crédito;90,75;174,75;0;0;54,34;229,09;Ingressou;Outros;Outros;1
+36017-TAM;Feminino;52;Sim;Tamil Nadu;15;23;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,55;19,55;0;0;40,63;60,18;Ingressou;Outros;Outros;1
+36483-KAR;Masculino;42;Não;Karnataka;2;14;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,75;19,75;0;0;15,77;35,52;Ingressou;Outros;Outros;1
+22765-MAH;Feminino;40;Sim;Maharashtra;6;16;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,45;19,45;0;0;16,44;35,89;Ingressou;Outros;Outros;1
+22782-ODI;Feminino;50;Sim;Odisha;2;28;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,3;54,7;0;0;30,39;85,09;Ingressou;Outros;Outros;1
+23683-TEL;Masculino;26;Não;Telangana;10;16;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;20,25;20,25;0;0;42,96;63,21;Ingressou;Outros;Outros;1
+23729-UTT;Feminino;58;Não;Uttar Pradesh;14;19;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,65;38,8;0;0;19,22;58,02;Ingressou;Outros;Outros;1
+26412-ASS;Feminino;30;Não;Assam;7;18;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;20,7;39,85;0;0;27,78;67,63;Ingressou;Outros;Outros;1
+26448-BIH;Feminino;57;Não;Bihar;10;21;Oferta 5;Sim;Não;Sim;ADSL;Não;Sim;Não;Sim;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;75,3;244,1;0;0;116,97;361,07;Ingressou;Outros;Outros;1
+27553-UTT;Feminino;53;Sim;Uttar Pradesh;0;18;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,3;20,3;0;0;4,09;24,39;Ingressou;Outros;Outros;1
+27561-UTT;Feminino;19;Não;Uttar Pradesh;6;10;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;20,25;20,25;0;0;47,25;67,5;Ingressou;Outros;Outros;1
+28378-MAD;Feminino;65;Não;Madhya Pradesh;12;1;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,45;19,45;0;0;46,59;66,04;Ingressou;Outros;Outros;1
+28398-TEL;Masculino;59;Sim;Telangana;3;23;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20;20;0;0;25,99;45,99;Ingressou;Outros;Outros;1
+29371-WES;Feminino;23;Não;West Bengal;14;9;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;55,3;108,65;0;0;87,86;196,51;Ingressou;Outros;Outros;1
+31294-KAR;Masculino;50;Sim;Karnataka;15;33;Oferta 5;Sim;Não;Sim;ADSL;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;49,75;49,75;0;0;41,79;91,54;Ingressou;Outros;Outros;1
+31412-HAR;Feminino;81;Sim;Haryana;14;29;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Dois Anos;Não;Débito em Conta;19,2;37,2;0;0;14,06;51,26;Ingressou;Outros;Outros;1
+31476-TEL;Masculino;42;Sim;Telangana;5;33;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,95;19,95;0;0;27,08;47,03;Ingressou;Outros;Outros;1
+32063-UTT;Feminino;63;Sim;Uttar Pradesh;6;31;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19;19;0;0;28,28;47,28;Ingressou;Outros;Outros;1
+32966-HAR;Feminino;23;Não;Haryana;3;7;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,2;19,2;0;0;26,37;45,57;Ingressou;Outros;Outros;1
+33773-UTT;Masculino;58;Sim;Uttar Pradesh;3;6;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,6;20,6;0;0;1,48;22,08;Ingressou;Outros;Outros;1
+33776-BIH;Masculino;32;Sim;Bihar;6;10;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,2;19,2;0;0;35,88;55,08;Ingressou;Outros;Outros;1
+37131-MAH;Masculino;52;Não;Maharashtra;6;2;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;89,25;89,25;0;0;16,64;105,89;Ingressou;Outros;Outros;1
+38452-MAH;Feminino;34;Não;Maharashtra;6;14;Oferta 5;Sim;Não;Sim;ADSL;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;47,95;47,95;0;0;46,23;94,18;Ingressou;Outros;Outros;1
+39332-TEL;Feminino;44;Sim;Telangana;6;8;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;80,55;80,55;0;60;5,93;146,48;Ingressou;Outros;Outros;1
+31601-DEL;Feminino;31;Sim;Delhi;2;10;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,65;19,65;0;0;42,42;62,07;Ingressou;Outros;Outros;1
+32375-UTT;Feminino;23;Sim;Uttar Pradesh;1;3;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;20,9;20,9;0;0;10,21;31,11;Ingressou;Outros;Outros;1
+33565-UTT;Masculino;72;Sim;Uttar Pradesh;7;29;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Dois Anos;Não;Débito em Conta;74,3;74,3;0;0;17,84;92,14;Ingressou;Outros;Outros;1
+33621-MAD;Feminino;42;Não;Madhya Pradesh;13;12;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;70,35;120,25;0;20;15,4;155,65;Ingressou;Outros;Outros;1
+35606-BIH;Masculino;76;Sim;Bihar;12;18;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Sim;Não;Não;Não;Não;Não;Um Ano;Não;Cartão de Crédito;75,05;202,9;5,49;10;124,32;331,73;Ingressou;Outros;Outros;1
+35635-TEL;Feminino;26;Sim;Telangana;10;5;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;20,4;20,4;0;0;17,81;38,21;Ingressou;Outros;Outros;1
+38577-BIH;Feminino;30;Sim;Bihar;6;36;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;44,5;90,05;0;0;61,74;151,79;Ingressou;Outros;Outros;1
+38663-UTT;Masculino;42;Não;Uttar Pradesh;7;15;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,3;40,25;0;0;14,54;54,79;Ingressou;Outros;Outros;1
+38748-AND;Feminino;22;Sim;Andhra Pradesh;13;6;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,65;19,65;0;0;27,88;47,53;Ingressou;Outros;Outros;1
+39540-BIH;Feminino;34;Não;Bihar;12;13;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;49,05;49,05;0;0;25,77;74,82;Ingressou;Outros;Outros;1
+39623-HAR;Feminino;85;Não;Haryana;2;10;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Sim;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;74,6;239,05;0;30;118,53;387,58;Ingressou;Outros;Outros;1
+48939-BIH;Feminino;38;Sim;Bihar;1;6;Nenhum;Sim;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;49,95;49,95;0;0;44,98;94,93;Ingressou;Outros;Outros;1
+39128-PUN;Masculino;36;Não;Punjab;15;22;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;44,75;44,75;0;10;18,57;73,32;Ingressou;Outros;Outros;1
+39764-UTT;Feminino;39;Sim;Uttar Pradesh;5;14;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,35;46,35;0;0;88,68;135,03;Ingressou;Outros;Outros;1
+39866-MAH;Feminino;24;Não;Maharashtra;1;12;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;45,55;84,4;0;10;83,8;178,2;Ingressou;Outros;Outros;1
+41427-HAR;Masculino;37;Não;Haryana;13;13;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;20,2;20,2;0;0;24,48;44,68;Ingressou;Outros;Outros;1
+41500-KAR;Masculino;31;Não;Karnataka;1;31;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,85;51,6;0;0;54,94;106,54;Ingressou;Outros;Outros;1
+41795-UTT;Feminino;58;Não;Uttar Pradesh;5;10;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,75;19,75;0;0;41,28;61,03;Ingressou;Outros;Outros;1
+42574-ASS;Feminino;25;Não;Assam;5;3;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,55;19,55;0;0;8,23;27,78;Ingressou;Outros;Outros;1
+43604-TAM;Feminino;18;Não;Tamil Nadu;14;7;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cheque;19,65;19,65;0;0;23,41;43,06;Ingressou;Outros;Outros;1
+44202-TEL;Feminino;50;Sim;Telangana;9;14;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;69,95;69,95;0;0;11,45;81,4;Ingressou;Outros;Outros;1
+44208-AND;Feminino;25;Sim;Andhra Pradesh;2;20;Nenhum;Sim;Sim;Sim;ADSL;Não;Sim;Sim;Não;Sim;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;69,15;235;0;0;72,84;307,84;Ingressou;Outros;Outros;1
+45038-BIH;Feminino;25;Sim;Bihar;7;14;Nenhum;Sim;Não;Sim;Fibra Óptica;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;74,55;233,65;0;0;30,3;263,95;Ingressou;Outros;Outros;1
+45771-KAR;Feminino;50;Não;Karnataka;3;7;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;44,45;44,45;0;0;23,34;67,79;Ingressou;Outros;Outros;1
+31918-KAR;Feminino;37;Não;Karnataka;15;34;Nenhum;Não;Não;Sim;Cabo;Sim;Não;Sim;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;41,35;107,25;0;0;0;107,25;Ingressou;Outros;Outros;1
+34101-TAM;Feminino;41;Não;Tamil Nadu;5;35;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;20,2;50,6;0;0;55,29;105,89;Ingressou;Outros;Outros;1
+34110-MAH;Feminino;20;Sim;Maharashtra;6;3;Nenhum;Sim;Sim;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;50,1;50,1;0;0;29,13;79,23;Ingressou;Outros;Outros;1
+34169-RAJ;Masculino;51;Sim;Rajasthan;14;30;Oferta 5;Sim;Sim;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;24,85;62;0;0;80,5;142,5;Ingressou;Outros;Outros;1
+34319-UTT;Masculino;40;Sim;Uttar Pradesh;12;25;Oferta 5;Sim;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;50,15;50,15;0;0;20,3;70,45;Ingressou;Outros;Outros;1
+35075-PUN;Masculino;64;Sim;Punjab;5;9;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Sim;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;55,05;55,05;0;0;14,65;69,7;Ingressou;Outros;Outros;1
+35658-JHA;Masculino;35;Não;Jharkhand;2;16;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;20,45;20,45;0;0;39,61;60,06;Ingressou;Outros;Outros;1
+36284-ODI;Masculino;43;Sim;Odisha;4;13;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;44,55;44,55;0;0;41,1;85,65;Ingressou;Outros;Outros;1
+36323-UTT;Feminino;48;Não;Uttar Pradesh;14;11;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Débito em Conta;20,5;38,25;0;0;62,02;100,27;Ingressou;Outros;Outros;1
+36339-UTT;Feminino;54;Não;Uttar Pradesh;14;7;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,9;45,75;0;0;124,08;169,83;Ingressou;Outros;Outros;1
+36628-GUJ;Feminino;44;Sim;Gujarat;7;1;Oferta 5;Sim;Não;Sim;Fibra Óptica;Sim;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;80,15;194,55;0;0;53,16;247,71;Ingressou;Outros;Outros;1
+38920-PUN;Feminino;50;Não;Punjab;8;7;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;43,85;43,85;0;10;15,9;69,75;Ingressou;Outros;Outros;1
+41196-MAH;Feminino;29;Sim;Maharashtra;11;10;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;45;45;0;10;40,63;95,63;Ingressou;Outros;Outros;1
+41235-WES;Feminino;37;Não;West Bengal;8;10;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;44,8;44,8;0;0;27,46;72,26;Ingressou;Outros;Outros;1
+42089-MAH;Feminino;32;Não;Maharashtra;2;34;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,7;57,5;0;0;115,23;172,73;Ingressou;Outros;Outros;1
+43297-MAH;Masculino;60;Não;Maharashtra;12;18;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Sim;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;50,2;109,25;0;10;12,68;131,93;Ingressou;Outros;Outros;1
+44655-TEL;Masculino;41;Sim;Telangana;0;25;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Sim;Cheque;50,5;147,75;0;0;79,14;226,89;Ingressou;Outros;Outros;1
+44693-UTT;Feminino;53;Não;Uttar Pradesh;11;27;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cartão de Crédito;20,3;31,9;0;0;70,84;102,74;Ingressou;Outros;Outros;1
+44700-DEL;Feminino;48;Não;Delhi;10;19;Oferta 5;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;84,6;84,6;0;0;7,34;91,94;Ingressou;Outros;Outros;1
+44709-WES;Feminino;72;Sim;West Bengal;7;17;Nenhum;Não;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;30,75;82,85;0;0;0;82,85;Ingressou;Outros;Outros;1
+45561-MAH;Feminino;44;Sim;Maharashtra;6;7;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cheque;20;40,9;0;0;86,54;127,44;Ingressou;Outros;Outros;1
+45672-TAM;Feminino;29;Não;Tamil Nadu;0;2;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;20,2;20,2;0;0;42,15;62,35;Ingressou;Outros;Outros;1
+46619-RAJ;Masculino;25;Não;Rajasthan;1;14;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cartão de Crédito;20,4;20,4;0;0;27,5;47,9;Ingressou;Outros;Outros;1
+47133-ODI;Feminino;60;Sim;Odisha;15;8;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;44,6;122,7;0;0;46,77;169,47;Ingressou;Outros;Outros;1
+48307-WES;Feminino;56;Não;West Bengal;4;15;Oferta 5;Sim;Não;Sim;Cabo;Não;Não;Sim;Não;Sim;Sim;Sim;Não;Um Ano;Sim;Débito em Conta;69,95;220,45;0;30;88,53;338,98;Ingressou;Outros;Outros;1
+42358-BIH;Feminino;53;Não;Bihar;9;35;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;54,2;140,4;0;0;124,14;264,54;Ingressou;Outros;Outros;1
+42768-TAM;Feminino;45;Não;Tamil Nadu;13;14;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,4;19,4;0;0;2,85;22,25;Ingressou;Outros;Outros;1
+42864-ODI;Feminino;29;Não;Odisha;2;10;Oferta 5;Não;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cheque;30,25;63,75;0;0;0;63,75;Ingressou;Outros;Outros;1
+43877-PUN;Masculino;23;Não;Punjab;6;3;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Sim;Não;Não;Sim;Sim;Sim;Mês-a-mês;Não;Débito em Conta;60,85;111,4;0;0;30,5;141,9;Ingressou;Outros;Outros;1
+43908-WES;Masculino;36;Não;West Bengal;3;25;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;70,35;139,25;0;0;89,54;228,79;Ingressou;Outros;Outros;1
+43920-RAJ;Feminino;38;Não;Rajasthan;9;3;Oferta 5;Sim;Não;Sim;Cabo;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;49,9;49,9;0;0;9;58,9;Ingressou;Outros;Outros;1
+45213-AND;Feminino;25;Sim;Andhra Pradesh;15;5;Oferta 5;Sim;Não;Sim;Cabo;Sim;Não;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Sim;Cartão de Crédito;61,2;125,95;0;0;64,12;190,07;Ingressou;Outros;Outros;1
+45978-GUJ;Feminino;38;Sim;Gujarat;2;19;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,75;44,2;0;0;55,34;99,54;Ingressou;Outros;Outros;1
+46004-TAM;Masculino;25;Sim;Tamil Nadu;1;6;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Sim;Sim;Sim;Sim;Sim;Mês-a-mês;Não;Débito em Conta;-8;132,4;0;0;47,04;179,44;Ingressou;Outros;Outros;1
+46081-TAM;Masculino;41;Sim;Tamil Nadu;14;29;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;45,15;45,15;0;0;42,34;87,49;Ingressou;Outros;Outros;1
+51961-BIH;Masculino;47;Não;Bihar;9;25;Oferta 5;Sim;Não;Sim;ADSL;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;50,95;123,05;0;0;73,92;196,97;Ingressou;Outros;Outros;1
+52641-JHA;Feminino;44;Sim;Jharkhand;7;29;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cheque;71,1;71,1;0;0;37,51;108,61;Ingressou;Outros;Outros;1
+52695-UTT;Feminino;52;Não;Uttar Pradesh;14;34;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,35;35,1;0;0;4,92;40,02;Ingressou;Outros;Outros;1
+53764-WES;Masculino;36;Não;West Bengal;10;23;Nenhum;Não;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;24,9;24,9;0;0;0;24,9;Ingressou;Outros;Outros;1
+53815-BIH;Feminino;36;Não;Bihar;2;4;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,7;19,7;0;0;34,28;53,98;Ingressou;Outros;Outros;1
+54997-UTT;Feminino;55;Não;Uttar Pradesh;7;23;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;44;44;0;0;26,15;70,15;Ingressou;Outros;Outros;1
+55043-UTT;Masculino;43;Sim;Uttar Pradesh;8;17;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;69,9;69,9;0;10;9,36;89,26;Ingressou;Outros;Outros;1
+55831-TAM;Masculino;43;Não;Tamil Nadu;11;13;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;19,95;58,3;0;0;15,45;73,75;Ingressou;Outros;Outros;1
+57012-TAM;Feminino;78;Sim;Tamil Nadu;11;29;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Dois Anos;Não;Débito em Conta;45,2;45,2;0;0;49,34;94,54;Ingressou;Outros;Outros;1
+57457-MAD;Feminino;46;Não;Madhya Pradesh;14;34;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;20;38;0;0;68,76;106,76;Ingressou;Outros;Outros;1
+58974-MAD;Masculino;34;Não;Madhya Pradesh;11;14;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,3;41,2;0;0;25,36;66,56;Ingressou;Outros;Outros;1
+61474-TEL;Masculino;52;Sim;Telangana;11;17;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,35;20,35;0;0;31,97;52,32;Ingressou;Outros;Outros;1
+62497-BIH;Feminino;20;Não;Bihar;0;2;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;20,75;67,1;0;0;49,17;116,27;Ingressou;Outros;Outros;1
+62535-AND;Masculino;42;Não;Andhra Pradesh;8;22;Oferta 5;Sim;Não;Sim;Cabo;Não;Não;Não;Sim;Sim;Sim;Sim;Sim;Mês-a-mês;Não;Cartão de Crédito;70,7;225,65;0;0;75,12;300,77;Ingressou;Outros;Outros;1
+63464-AND;Masculino;48;Não;Andhra Pradesh;7;5;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Sim;Não;Sim;Sim;Sim;Mês-a-mês;Não;Cartão de Crédito;60,65;196,9;0;0;67,47;264,37;Ingressou;Outros;Outros;1
+63487-MAH;Feminino;36;Sim;Maharashtra;8;34;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;44,75;44,75;0;0;40,87;85,62;Ingressou;Outros;Outros;1
+63883-KAR;Feminino;33;Sim;Karnataka;12;26;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cheque;20,45;42,45;0;0;94,38;136,83;Ingressou;Outros;Outros;1
+64327-AND;Feminino;59;Sim;Andhra Pradesh;8;9;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;20,65;20,65;0;0;35,24;55,89;Ingressou;Outros;Outros;1
+65987-TAM;Masculino;52;Sim;Tamil Nadu;9;34;Oferta 5;Sim;Sim;Sim;ADSL;Sim;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;61,15;61,15;0;0;17,07;78,22;Ingressou;Outros;Outros;1
+67752-MAH;Feminino;28;Não;Maharashtra;0;24;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;45,3;45,3;0;0;47,36;92,66;Ingressou;Outros;Outros;1
+74518-ODI;Feminino;27;Não;Odisha;13;13;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;44,45;82,7;0;0;37,4;120,1;Ingressou;Outros;Outros;1
+46190-GUJ;Masculino;27;Sim;Gujarat;0;36;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Sim;Sim;Não;Mês-a-mês;Não;Cheque;55,55;55,55;0;30;33,32;118,87;Ingressou;Outros;Outros;1
+46378-MAH;Feminino;59;Sim;Maharashtra;15;10;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;70,4;154,8;0;0;14,98;169,78;Ingressou;Outros;Outros;1
+47624-TAM;Feminino;62;Sim;Tamil Nadu;7;29;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Não;Cheque;-5;189,1;0;0;100,59;289,69;Ingressou;Outros;Outros;1
+47737-UTT;Masculino;42;Não;Uttar Pradesh;15;25;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,65;19,65;0;0;16,91;36,56;Ingressou;Outros;Outros;1
+47957-GUJ;Feminino;26;Não;Gujarat;4;2;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;20,45;20,45;0;0;42,17;62,62;Ingressou;Outros;Outros;1
+48018-RAJ;Masculino;39;Não;Rajasthan;1;14;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,55;19,55;0;0;30,63;50,18;Ingressou;Outros;Outros;1
+49201-GUJ;Feminino;37;Não;Gujarat;11;30;Nenhum;Não;Não;Sim;ADSL;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;29,9;29,9;0;0;0;29,9;Ingressou;Outros;Outros;1
+49265-BIH;Feminino;18;Sim;Bihar;4;4;Oferta 5;Sim;Não;Sim;Cabo;Sim;Não;Sim;Não;Não;Não;Sim;Sim;Mês-a-mês;Não;Cartão de Crédito;55,9;157,55;0;0;99,84;257,39;Ingressou;Outros;Outros;1
+51214-MAH;Masculino;28;Não;Maharashtra;12;22;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Sim;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;73,6;232,5;0;10;82,02;324,52;Ingressou;Outros;Outros;1
+52403-WES;Feminino;66;Sim;West Bengal;9;6;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Não;Dois Anos;Sim;Débito em Conta;71,25;71,25;0;10;17,6;98,85;Ingressou;Outros;Outros;1
+53295-WES;Feminino;35;Não;West Bengal;7;33;Oferta 5;Sim;Sim;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;25,7;25,7;0;0;43,84;69,54;Ingressou;Outros;Outros;1
+53350-TEL;Masculino;37;Sim;Telangana;6;22;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;74,5;217,45;0;0;20,91;238,36;Ingressou;Outros;Outros;1
+53612-UTT;Feminino;39;Sim;Uttar Pradesh;8;34;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,85;72;0;0;35,31;107,31;Ingressou;Outros;Outros;1
+54564-AND;Feminino;55;Sim;Andhra Pradesh;11;7;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;76,1;257,6;0;0;43,05;300,65;Ingressou;Outros;Outros;1
+54598-TAM;Masculino;59;Não;Tamil Nadu;11;32;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,75;39,3;0;0;3,94;43,24;Ingressou;Outros;Outros;1
+75671-PUD;Feminino;34;Sim;Puducherry;8;13;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;45,4;80,95;0;0;21,62;102,57;Ingressou;Outros;Outros;1
+76233-BIH;Feminino;78;Sim;Bihar;6;9;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Não;Dois Anos;Sim;Cartão de Crédito;70,6;70,6;0;30;32,61;133,21;Ingressou;Outros;Outros;1
+77230-RAJ;Feminino;59;Sim;Rajasthan;5;4;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;19,65;31,2;0;0;15,6;46,8;Ingressou;Outros;Outros;1
+77311-MAD;Masculino;47;Sim;Madhya Pradesh;9;19;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,25;20,25;0;0;40,46;60,71;Ingressou;Outros;Outros;1
+78220-TAM;Feminino;21;Sim;Tamil Nadu;14;10;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Sim;Sim;Sim;Não;Sim;Sim;Mês-a-mês;Sim;Cartão de Crédito;89,85;244,45;0;0;75,3;319,75;Ingressou;Outros;Outros;1
+78253-GUJ;Masculino;63;Não;Gujarat;13;30;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Sim;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;85;85;0;0;15,2;100,2;Ingressou;Outros;Outros;1
+79905-UTT;Feminino;24;Não;Uttar Pradesh;0;12;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,45;20,45;0;0;30,09;50,54;Ingressou;Outros;Outros;1
+82965-TEL;Feminino;38;Não;Telangana;8;20;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;44,75;148,05;0;10;104,67;262,72;Ingressou;Outros;Outros;1
+83050-PUN;Feminino;25;Sim;Punjab;7;20;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cartão de Crédito;20,45;34,8;0;0;92;126,8;Ingressou;Outros;Outros;1
+83080-HAR;Feminino;54;Não;Haryana;9;4;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;70,15;194,2;0;0;16,89;211,09;Ingressou;Outros;Outros;1
+83113-GUJ;Masculino;35;Não;Gujarat;8;30;Nenhum;Não;Não;Sim;ADSL;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;29,15;29,15;0;0;0;29,15;Ingressou;Outros;Outros;1
+83736-UTT;Masculino;43;Sim;Uttar Pradesh;1;25;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;45,35;45,35;0;0;12,46;57,81;Ingressou;Outros;Outros;1
+83817-UTT;Masculino;48;Não;Uttar Pradesh;8;18;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cheque;21,05;21,05;0;0;10,14;31,19;Ingressou;Outros;Outros;1
+84613-BIH;Feminino;30;Não;Bihar;8;22;Oferta 5;Sim;Sim;Sim;Fibra Óptica;Não;Sim;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;79,15;79,15;0;60;18;157,15;Ingressou;Outros;Outros;1
+84687-PUN;Feminino;31;Não;Punjab;0;18;Oferta 5;Não;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;24,7;24,7;0;70;0;94,7;Ingressou;Outros;Outros;1
+52279-TAM;Masculino;53;Não;Tamil Nadu;15;26;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;80,7;239,45;0;0;71,16;310,61;Ingressou;Outros;Outros;1
+53449-MAH;Feminino;52;Não;Maharashtra;8;17;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,9;19,9;0;0;2,38;22,28;Ingressou;Outros;Outros;1
+54172-RAJ;Feminino;64;Sim;Rajasthan;0;9;Oferta 5;Sim;Sim;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;56,55;118,25;0;0;63,48;181,73;Ingressou;Outros;Outros;1
+54195-MAH;Feminino;61;Sim;Maharashtra;11;23;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,75;19,75;0;0;37,62;57,37;Ingressou;Outros;Outros;1
+57256-BIH;Feminino;18;Não;Bihar;9;7;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,85;57,2;0;0;9,36;66,56;Ingressou;Outros;Outros;1
+58044-KAR;Feminino;31;Não;Karnataka;5;13;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,35;41,85;0;0;10,84;52,69;Ingressou;Outros;Outros;1
+61025-MAH;Feminino;45;Não;Maharashtra;4;16;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Sim;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;49,85;49,85;0;0;42,55;92,4;Ingressou;Outros;Outros;1
+56256-UTT;Masculino;40;Não;Uttar Pradesh;14;15;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;70,3;220,4;0;0;29,22;249,62;Ingressou;Outros;Outros;1
+56460-MAH;Masculino;38;Sim;Maharashtra;12;23;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;-1;129,2;0;10;5,44;144,64;Ingressou;Outros;Outros;1
+56554-RAJ;Feminino;29;Sim;Rajasthan;0;11;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,75;19,75;0;0;10,22;29,97;Ingressou;Outros;Outros;1
+58577-ODI;Feminino;44;Sim;Odisha;7;36;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;45,85;105,6;0;0;10,94;116,54;Ingressou;Outros;Outros;1
+59750-AND;Feminino;49;Sim;Andhra Pradesh;11;4;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;74,9;136,05;0;0;82,16;218,21;Ingressou;Outros;Outros;1
+61203-PUN;Feminino;19;Não;Punjab;11;11;Nenhum;Sim;Sim;Sim;Cabo;Não;Não;Não;Sim;Sim;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;64,6;174,2;0;0;122,97;297,17;Ingressou;Outros;Outros;1
+62359-AND;Feminino;48;Sim;Andhra Pradesh;5;24;Oferta 5;Não;Não;Sim;Cabo;Não;Sim;Não;Sim;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;33,6;33,6;0;50;0;83,6;Ingressou;Outros;Outros;1
+62968-UTT;Feminino;18;Não;Uttar Pradesh;4;3;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Sim;Não;Sim;Sim;Sim;Mês-a-mês;Sim;Cartão de Crédito;59,55;59,55;0;0;41,39;100,94;Ingressou;Outros;Outros;1
+46730-ASS;Feminino;18;Não;Assam;5;4;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;74,75;144,8;0;0;87,12;231,92;Ingressou;Outros;Outros;1
+46792-MAD;Feminino;59;Sim;Madhya Pradesh;6;25;Oferta 5;Não;Não;Sim;ADSL;Não;Não;Sim;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;35,9;35,9;0;0;0;35,9;Ingressou;Outros;Outros;1
+46865-PUN;Feminino;18;Não;Punjab;11;1;Oferta 5;Sim;Sim;Sim;Fibra Óptica;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;79,45;145,15;0;0;57,22;202,37;Ingressou;Outros;Outros;1
+47492-AND;Feminino;30;Sim;Andhra Pradesh;15;24;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;20,15;20,15;0;0;18,63;38,78;Ingressou;Outros;Outros;1
+47611-WES;Masculino;25;Não;West Bengal;4;31;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Sim;Sim;Não;Mês-a-mês;Sim;Débito em Conta;55,25;55,25;0;60;39,19;154,44;Ingressou;Outros;Outros;1
+48051-GUJ;Feminino;49;Sim;Gujarat;0;36;Nenhum;Não;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Um Ano;Não;Cartão de Crédito;25,85;25,85;0;0;0;25,85;Ingressou;Outros;Outros;1
+49304-KAR;Feminino;32;Sim;Karnataka;6;33;Nenhum;Sim;Sim;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;49,8;49,8;0;0;3,97;53,77;Ingressou;Outros;Outros;1
+51597-MAD;Feminino;26;Sim;Madhya Pradesh;10;18;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,9;19,9;0;0;1,5;21,4;Ingressou;Outros;Outros;1
+51657-TAM;Masculino;54;Não;Tamil Nadu;13;16;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,85;60,65;0;0;58,74;119,39;Ingressou;Outros;Outros;1
+51751-KER;Feminino;62;Não;Kerala;9;25;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;70,15;123,8;0;0;67,5;191,3;Ingressou;Outros;Outros;1
+53186-HAR;Masculino;74;Sim;Haryana;10;2;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Um Ano;Não;Débito em Conta;45,25;45,25;0;0;11,89;57,14;Ingressou;Outros;Outros;1
+84720-GUJ;Masculino;55;Sim;Gujarat;11;6;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,2;19,2;0;0;32,78;51,98;Ingressou;Outros;Outros;1
+84770-UTT;Feminino;38;Sim;Uttar Pradesh;2;21;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;20,15;20,15;0;0;27,59;47,74;Ingressou;Outros;Outros;1
+85917-TAM;Masculino;53;Sim;Tamil Nadu;7;15;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,5;19,5;0;0;33,02;52,52;Ingressou;Outros;Outros;1
+86703-WES;Feminino;54;Sim;West Bengal;14;35;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;20,65;20,65;0;0;1,47;22,12;Ingressou;Outros;Outros;1
+88215-KAR;Feminino;19;Não;Karnataka;5;10;Oferta 5;Sim;Sim;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;50,05;50,05;0;0;43,05;93,1;Ingressou;Outros;Outros;1
+89188-KAR;Feminino;26;Sim;Karnataka;3;9;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cheque;20,55;33,6;0;0;33,4;67;Ingressou;Outros;Outros;1
+89303-AND;Masculino;51;Não;Andhra Pradesh;6;11;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;69,95;143,9;0;0;58,2;202,1;Ingressou;Outros;Outros;1
+91320-PUD;Feminino;58;Não;Puducherry;0;18;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;70,1;70,1;0;0;1,15;71,25;Ingressou;Outros;Outros;1
+92134-BIH;Masculino;24;Não;Bihar;5;11;Nenhum;Não;Não;Sim;ADSL;Não;Não;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;34,8;113,95;0;0;0;113,95;Ingressou;Outros;Outros;1
+92198-DEL;Feminino;44;Sim;Delhi;8;15;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;20,25;20,25;0;0;28,18;48,43;Ingressou;Outros;Outros;1
+92494-MAH;Feminino;39;Sim;Maharashtra;11;19;Nenhum;Sim;Não;Sim;Fibra Óptica;Sim;Sim;Não;Não;Sim;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;91,15;168,5;0;10;93,56;272,06;Ingressou;Outros;Outros;1
+92527-KAR;Feminino;40;Não;Karnataka;7;16;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;20,05;20,05;0;0;3,23;23,28;Ingressou;Outros;Outros;1
+94070-JAM;Feminino;21;Sim;Jammu & Kashmir;8;3;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;90,1;90,1;0;0;24,33;114,43;Ingressou;Outros;Outros;1
+94124-MAH;Feminino;21;Não;Maharashtra;9;8;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;79,95;174,45;0;0;75,4;249,85;Ingressou;Outros;Outros;1
+66164-CHH;Feminino;62;Não;Chhattisgarh;13;20;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,4;61,05;0;0;13,3;74,35;Ingressou;Outros;Outros;1
+66612-KAR;Feminino;58;Sim;Karnataka;11;18;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,95;58;0;0;8,07;66,07;Ingressou;Outros;Outros;1
+68556-MAH;Masculino;68;Não;Maharashtra;4;23;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,2;20,2;0;0;13,08;33,28;Ingressou;Outros;Outros;1
+71197-PUN;Feminino;38;Não;Punjab;0;33;Oferta 5;Sim;Não;Sim;Cabo;Sim;Não;Sim;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;77,4;206,15;0;0;133,26;339,41;Ingressou;Outros;Outros;1
+71509-HAR;Feminino;40;Não;Haryana;3;27;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;54,65;54,65;0;0;36,33;90,98;Ingressou;Outros;Outros;1
+71752-TEL;Feminino;51;Não;Telangana;4;2;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,9;57,4;0;0;53,8;111,2;Ingressou;Outros;Outros;1
+65405-MAH;Feminino;65;Sim;Maharashtra;7;18;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cheque;20,25;71,2;0;0;4,41;75,61;Ingressou;Outros;Outros;1
+66669-HAR;Masculino;44;Não;Haryana;12;32;Oferta 5;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;44,05;44,05;0;0;30,73;74,78;Ingressou;Outros;Outros;1
+66712-GUJ;Feminino;47;Sim;Gujarat;6;33;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Sim;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Não;Débito em Conta;84,3;235,05;0;0;41,16;276,21;Ingressou;Outros;Outros;1
+66749-KER;Feminino;47;Não;Kerala;9;5;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,75;20,75;0;0;36,28;57,03;Ingressou;Outros;Outros;1
+66766-UTT;Feminino;38;Não;Uttar Pradesh;6;10;Oferta 5;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;74,95;212,4;27,6;0;4,92;189,72;Ingressou;Outros;Outros;1
+66868-HAR;Feminino;25;Sim;Haryana;13;10;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;70,25;70,25;0;10;10,05;90,3;Ingressou;Outros;Outros;1
+67882-UTT;Feminino;44;Não;Uttar Pradesh;3;16;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;43,8;43,8;0;0;37,5;81,3;Ingressou;Outros;Outros;1
+67941-PUN;Feminino;46;Não;Punjab;9;13;Oferta 5;Sim;Sim;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;54,15;101,65;0;10;42,6;154,25;Ingressou;Outros;Outros;1
+67994-MAD;Masculino;75;Sim;Madhya Pradesh;12;33;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Dois Anos;Não;Débito em Conta;46,3;46,3;0;0;11,51;57,81;Ingressou;Outros;Outros;1
+68826-MAH;Masculino;48;Não;Maharashtra;14;1;Nenhum;Não;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;24,7;24,7;0;0;0;24,7;Ingressou;Outros;Outros;1
+71210-WES;Feminino;58;Não;West Bengal;15;28;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,85;19,85;0;0;29,1;48,95;Ingressou;Outros;Outros;1
+71234-HAR;Feminino;44;Não;Haryana;10;34;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,4;19,4;0;0;23,97;43,37;Ingressou;Outros;Outros;1
+71261-TAM;Feminino;59;Não;Tamil Nadu;2;27;Nenhum;Sim;Não;Sim;Cabo;Sim;Sim;Não;Sim;Não;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;70,45;70,45;0;0;20,1;90,55;Ingressou;Outros;Outros;1
+71564-KAR;Feminino;48;Não;Karnataka;6;5;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,05;19,05;0;0;5,02;24,07;Ingressou;Outros;Outros;1
+94243-TAM;Feminino;34;Não;Tamil Nadu;5;15;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,9;19,9;0;0;7,76;27,66;Ingressou;Outros;Outros;1
+95748-UTT;Masculino;22;Sim;Uttar Pradesh;5;4;Oferta 5;Sim;Sim;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;25,4;25,4;0;0;32,73;58,13;Ingressou;Outros;Outros;1
+95822-AND;Masculino;34;Sim;Andhra Pradesh;3;26;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,2;19,2;0;0;17,89;37,09;Ingressou;Outros;Outros;1
+97828-MAH;Feminino;57;Não;Maharashtra;0;12;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;92;266,8;0;0;46,8;313,6;Ingressou;Outros;Outros;1
+99475-KAR;Masculino;22;Sim;Karnataka;11;11;Nenhum;Sim;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;51,55;106,2;0;0;37,22;143,42;Ingressou;Outros;Outros;1
+99488-KAR;Masculino;50;Sim;Karnataka;10;31;Nenhum;Não;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;24,4;24,4;0;0;0;24,4;Ingressou;Outros;Outros;1
+55757-KAR;Feminino;32;Sim;Karnataka;2;9;Oferta 5;Sim;Não;Sim;Cabo;Não;Não;Sim;Sim;Não;Não;Não;Sim;Mês-a-mês;Sim;Cheque;55,8;154,55;0;0;12,57;167,12;Ingressou;Outros;Outros;1
+56728-RAJ;Masculino;40;Não;Rajasthan;0;1;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;45,6;45,6;0;0;37,44;83,04;Ingressou;Outros;Outros;1
+58848-PUN;Masculino;58;Sim;Punjab;14;18;Nenhum;Sim;Não;Sim;Cabo;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;49,8;49,8;0;0;38,21;88,01;Ingressou;Outros;Outros;1
+61331-UTT;Masculino;36;Sim;Uttarakhand;2;10;Oferta 5;Sim;Não;Sim;ADSL;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;50,75;50,75;0;0;45,77;96,52;Ingressou;Outros;Outros;1
+64095-BIH;Masculino;27;Não;Bihar;2;17;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Sim;Débito em Conta;-3;20,2;0;0;44,69;64,89;Ingressou;Outros;Outros;1
+72275-GUJ;Feminino;45;Sim;Gujarat;8;4;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cartão de Crédito;19,95;47,7;0;0;62,9;110,6;Ingressou;Outros;Outros;1
+72357-MAD;Feminino;53;Não;Madhya Pradesh;14;12;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;44,3;44,3;0;0;42,95;87,25;Ingressou;Outros;Outros;1
+72391-UTT;Masculino;35;Não;Uttar Pradesh;1;7;Nenhum;Não;Não;Sim;ADSL;Não;Não;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Não;Débito em Conta;35;35;0;0;0;35;Ingressou;Outros;Outros;1
+72469-MAD;Masculino;56;Não;Madhya Pradesh;9;9;Nenhum;Sim;Não;Sim;Cabo;Sim;Não;Sim;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;55,7;55,7;0;0;17,68;73,38;Ingressou;Outros;Outros;1
+73044-KAR;Masculino;23;Sim;Karnataka;15;5;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;74,6;74,6;0;0;42,99;117,59;Ingressou;Outros;Outros;1
+73108-GUJ;Feminino;38;Sim;Gujarat;6;12;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,25;36,8;0;0;31,66;68,46;Ingressou;Outros;Outros;1
+73547-KAR;Feminino;43;Sim;Karnataka;13;16;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;84,05;134,05;0;0;44,46;178,51;Ingressou;Outros;Outros;1
+74378-KAR;Feminino;37;Sim;Karnataka;12;30;Nenhum;Sim;Não;Sim;ADSL;Sim;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;54,45;87,3;0;0;39,74;127,04;Ingressou;Outros;Outros;1
+75802-MAH;Feminino;61;Não;Maharashtra;4;3;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,05;20,05;0;0;13,51;33,56;Ingressou;Outros;Outros;1
+77658-AND;Masculino;44;Não;Andhra Pradesh;0;4;Oferta 5;Não;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;24,4;24,4;0;0;0;24,4;Ingressou;Outros;Outros;1
+77678-JHA;Feminino;41;Sim;Jharkhand;1;29;Nenhum;Sim;Não;Sim;ADSL;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;49,55;49,55;0;0;10,83;60,38;Ingressou;Outros;Outros;1
+77688-TAM;Masculino;35;Não;Tamil Nadu;4;13;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;49;49;0;0;49,19;98,19;Ingressou;Outros;Outros;1
+78978-UTT;Masculino;54;Não;Uttar Pradesh;0;13;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,3;19,3;0;0;16,36;35,66;Ingressou;Outros;Outros;1
+79168-UTT;Feminino;78;Não;Uttar Pradesh;2;10;Oferta 5;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Um Ano;Sim;Débito em Conta;44,3;89,3;0;0;47,82;137,12;Ingressou;Outros;Outros;1
+71689-PUN;Feminino;42;Sim;Punjab;3;19;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;43,95;43,95;0;0;45,59;89,54;Ingressou;Outros;Outros;1
+72971-TAM;Feminino;81;Não;Tamil Nadu;6;8;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Sim;Não;Não;Não;Sim;Um Ano;Não;Débito em Conta;74,7;74,7;0;0;27,65;102,35;Ingressou;Outros;Outros;1
+74033-ASS;Feminino;45;Sim;Assam;15;20;Nenhum;Não;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;25,25;25,25;0;0;0;25,25;Ingressou;Outros;Outros;1
+74978-MAH;Feminino;28;Sim;Maharashtra;1;21;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,75;19,75;0;0;30,38;50,13;Ingressou;Outros;Outros;1
+74979-MAD;Feminino;49;Sim;Madhya Pradesh;10;14;Oferta 5;Não;Não;Sim;Cabo;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;29,05;44,75;0;0;0;44,75;Ingressou;Outros;Outros;1
+75058-TEL;Feminino;59;Não;Telangana;6;14;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Sim;Sim;Sim;Sim;Sim;Sim;Um Ano;Não;Cartão de Crédito;74,1;74,1;0;0;36,05;110,15;Ingressou;Outros;Outros;1
+76419-KAR;Masculino;46;Sim;Karnataka;14;28;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Não;Débito em Conta;94,9;273,2;0;0;8,91;282,11;Ingressou;Outros;Outros;1
+77137-MAH;Masculino;52;Não;Maharashtra;1;8;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cheque;45,55;45,55;0;0;16,34;61,89;Ingressou;Outros;Outros;1
+78021-UTT;Feminino;45;Sim;Uttar Pradesh;12;35;Oferta 5;Sim;Sim;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;25;25;0;0;3,39;28,39;Ingressou;Outros;Outros;1
+78885-TAM;Feminino;43;Não;Tamil Nadu;2;5;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,5;19,5;0;0;20,11;39,61;Ingressou;Outros;Outros;1
+78918-BIH;Feminino;59;Não;Bihar;12;11;Oferta 5;Sim;Não;Sim;Fibra Óptica;Sim;Não;Não;Não;Não;Sim;Sim;Sim;Mês-a-mês;Sim;Cartão de Crédito;86,05;244,85;0;0;54,78;299,63;Ingressou;Outros;Outros;1
+81098-GUJ;Masculino;31;Sim;Gujarat;13;11;Nenhum;Sim;Não;Sim;ADSL;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;51,25;51,25;0;0;39,3;90,55;Ingressou;Outros;Outros;1
+81118-MAD;Feminino;31;Não;Madhya Pradesh;1;13;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;45,8;45,8;0;0;13,62;59,42;Ingressou;Outros;Outros;1
+81763-DEL;Masculino;36;Sim;Delhi;7;7;Nenhum;Sim;Não;Sim;Fibra Óptica;Sim;Não;Sim;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;80,45;137,1;0;0;70,82;207,92;Ingressou;Outros;Outros;1
+82427-MAH;Masculino;36;Não;Maharashtra;15;28;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,55;19,55;0;0;17,94;37,49;Ingressou;Outros;Outros;1
+82473-AND;Masculino;63;Sim;Andhra Pradesh;10;1;Oferta 5;Não;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;29,8;94,4;0;0;0;94,4;Ingressou;Outros;Outros;1
+83308-TAM;Masculino;40;Não;Tamil Nadu;5;14;Nenhum;Não;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cheque;29,65;90,05;0;0;0;90,05;Ingressou;Outros;Outros;1
+83939-AND;Feminino;42;Não;Andhra Pradesh;8;27;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;20,1;43,15;0;0;65,72;108,87;Ingressou;Outros;Outros;1
+83994-DEL;Masculino;48;Sim;Delhi;8;24;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Não;Cartão de Crédito;90,7;237,65;0;0;16,17;253,82;Ingressou;Outros;Outros;1
+84789-PUN;Masculino;46;Não;Punjab;9;19;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;107,95;318,6;0;0;37,98;356,58;Ingressou;Outros;Outros;1
+84843-MAD;Feminino;57;Sim;Madhya Pradesh;11;8;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;75,1;75,1;0;0;4,53;79,63;Ingressou;Outros;Outros;1
+85027-KAR;Masculino;57;Não;Karnataka;14;27;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,75;19,75;0;0;1,61;21,36;Ingressou;Outros;Outros;1
+85031-RAJ;Feminino;60;Não;Rajasthan;1;4;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;44;44;0;0;13,4;57,4;Ingressou;Outros;Outros;1
+86289-UTT;Masculino;27;Não;Uttar Pradesh;4;27;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,3;20,3;0;0;29,19;49,49;Ingressou;Outros;Outros;1
+86315-TAM;Feminino;54;Não;Tamil Nadu;6;13;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;20,95;20,95;0;0;2,29;23,24;Ingressou;Outros;Outros;1
+86362-ASS;Feminino;35;Sim;Assam;15;11;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Sim;Cheque;74,3;74,3;0;0;39,55;113,85;Ingressou;Outros;Outros;1
+86369-BIH;Feminino;59;Não;Bihar;1;2;Oferta 5;Sim;Sim;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;54,3;54,3;0;10;34,02;98,32;Ingressou;Outros;Outros;1
+87024-KAR;Masculino;58;Não;Karnataka;14;8;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;71,3;157,75;0;0;13,48;171,23;Ingressou;Outros;Outros;1
+87077-TAM;Masculino;62;Sim;Tamil Nadu;3;21;Oferta 5;Sim;Não;Sim;Cabo;Não;Não;Sim;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Não;Cartão de Crédito;69;147,8;0;0;54,82;202,62;Ingressou;Outros;Outros;1
+88728-UTT;Feminino;42;Não;Uttar Pradesh;12;9;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cartão de Crédito;21,2;52,05;0;0;36,15;88,2;Ingressou;Outros;Outros;1
+89382-ASS;Masculino;56;Não;Assam;5;29;Oferta 5;Não;Não;Sim;ADSL;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;29,75;96,85;0;0;0;96,85;Ingressou;Outros;Outros;1
+89512-JAM;Masculino;57;Não;Jammu & Kashmir;3;34;Nenhum;Sim;Sim;Sim;ADSL;Sim;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;60,95;134,6;0;0;29,76;164,36;Ingressou;Outros;Outros;1
+65531-MAH;Feminino;55;Não;Maharashtra;10;22;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,8;19,8;0;0;11,96;31,76;Ingressou;Outros;Outros;1
+65580-UTT;Masculino;54;Não;Uttar Pradesh;6;2;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;19,1;53,05;0;0;48,96;102,01;Ingressou;Outros;Outros;1
+66413-TAM;Feminino;53;Não;Tamil Nadu;12;4;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;80,5;232,35;0;0;80,58;312,93;Ingressou;Outros;Outros;1
+79700-KER;Feminino;53;Não;Kerala;5;30;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Sim;Sim;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Não;Cheque;107,95;313,6;0;0;142,5;456,1;Ingressou;Outros;Outros;1
+79777-MAH;Masculino;77;Sim;Maharashtra;13;33;Nenhum;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cheque;72,6;154,3;0;0;30,38;184,68;Ingressou;Outros;Outros;1
+82010-WES;Feminino;46;Não;West Bengal;14;7;Oferta 5;Sim;Sim;Sim;Fibra Óptica;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;79,55;151,75;0;0;51,12;202,87;Ingressou;Outros;Outros;1
+82559-CHH;Masculino;34;Sim;Chhattisgarh;0;33;Oferta 5;Sim;Não;Sim;ADSL;Não;Sim;Não;Sim;Não;Sim;Sim;Não;Mês-a-mês;Sim;Cartão de Crédito;64,2;143,65;0;30;8,82;182,47;Ingressou;Outros;Outros;1
+82718-TAM;Masculino;32;Sim;Tamil Nadu;12;7;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;20,7;20,7;0;0;45,86;66,56;Ingressou;Outros;Outros;1
+83196-UTT;Feminino;61;Sim;Uttar Pradesh;3;10;Nenhum;Sim;Sim;Sim;Fibra Óptica;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;80,55;188,1;0;0;10,6;198,7;Ingressou;Outros;Outros;1
+83440-GUJ;Masculino;53;Não;Gujarat;4;14;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;20;49,65;0;0;93,18;142,83;Ingressou;Outros;Outros;1
+83486-MAH;Masculino;34;Não;Maharashtra;5;4;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Sim;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;75,35;75,35;0;0;38,89;114,24;Ingressou;Outros;Outros;1
+84508-TAM;Feminino;28;Sim;Tamil Nadu;11;28;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;21,1;21,1;0;0;18,81;39,91;Ingressou;Outros;Outros;1
+84535-TAM;Masculino;46;Não;Tamil Nadu;2;36;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cheque;20,4;42,9;0;0;99,06;141,96;Ingressou;Outros;Outros;1
+84577-TEL;Feminino;59;Sim;Telangana;11;29;Nenhum;Sim;Não;Sim;Cabo;Não;Sim;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;59;114,15;0;0;54,04;168,19;Ingressou;Outros;Outros;1
+86891-GUJ;Masculino;25;Não;Gujarat;7;5;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,05;20,05;0;0;18,15;38,2;Ingressou;Outros;Outros;1
+87704-GUJ;Feminino;38;Sim;Gujarat;9;24;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Dois Anos;Não;Cartão de Crédito;20,45;20,45;0;0;43,82;64,27;Ingressou;Outros;Outros;1
+89154-RAJ;Feminino;47;Não;Rajasthan;5;3;Oferta 5;Sim;Não;Sim;Cabo;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;49,2;103,7;0;0;58,56;162,26;Ingressou;Outros;Outros;1
+89804-MAH;Masculino;34;Não;Maharashtra;4;31;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,4;50,6;0;0;30,32;80,92;Ingressou;Outros;Outros;1
+92398-AND;Masculino;35;Não;Andhra Pradesh;5;12;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;20;61,7;0;0;46,11;107,81;Ingressou;Outros;Outros;1
+93520-GUJ;Feminino;67;Não;Gujarat;13;19;Oferta 5;Sim;Sim;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Um Ano;Sim;Débito em Conta;72,1;72,1;0;0;7,77;79,87;Ingressou;Outros;Outros;1
+93521-MAH;Feminino;55;Não;Maharashtra;6;35;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Sim;Não;Não;Não;Não;Mês-a-mês;Sim;Débito em Conta;-1;49,3;0;10;14,97;74,27;Ingressou;Outros;Outros;1
+93667-KER;Feminino;38;Não;Kerala;7;33;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Sim;Cartão de Crédito;20,55;57,4;0;0;33,81;91,21;Ingressou;Outros;Outros;1
+95594-TAM;Feminino;64;Não;Tamil Nadu;4;1;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;44;44;0;0;15,66;59,66;Ingressou;Outros;Outros;1
+95735-PUN;Feminino;53;Não;Punjab;10;21;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;19,25;48,35;0;0;42,36;90,71;Ingressou;Outros;Outros;1
+96430-PUN;Masculino;37;Não;Punjab;0;23;Nenhum;Sim;Não;Sim;ADSL;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;48,75;48,75;0;0;26,26;75,01;Ingressou;Outros;Outros;1
+97427-JAM;Feminino;27;Sim;Jammu & Kashmir;9;2;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;20,35;20,35;0;0;29,86;50,21;Ingressou;Outros;Outros;1
+97497-RAJ;Masculino;24;Sim;Rajasthan;9;8;Oferta 5;Sim;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;49,9;49,9;0;0;6,35;56,25;Ingressou;Outros;Outros;1
+97615-MAH;Feminino;23;Sim;Maharashtra;11;10;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,2;20,2;0;0;41,1;61,3;Ingressou;Outros;Outros;1
+98301-WES;Masculino;28;Sim;West Bengal;4;27;Nenhum;Sim;Não;Sim;Cabo;Sim;Não;Sim;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;53,45;119,5;0;0;25,18;144,68;Ingressou;Outros;Outros;1
+98334-MAD;Masculino;67;Sim;Madhya Pradesh;15;20;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;20,2;65,95;0;0;95,43;161,38;Ingressou;Outros;Outros;1
+99855-MAH;Feminino;50;Sim;Maharashtra;5;29;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Débito em Conta;69,7;135,2;0;0;31,34;166,54;Ingressou;Outros;Outros;1
+99862-BIH;Feminino;30;Não;Bihar;12;9;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;74;74;0;0;23,7;97,7;Ingressou;Outros;Outros;1
+92228-BIH;Feminino;22;Sim;Bihar;10;9;Nenhum;Não;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;25,15;25,15;0;0;0;25,15;Ingressou;Outros;Outros;1
+94305-KAR;Masculino;49;Sim;Karnataka;5;18;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;19,75;19,75;0;0;5,32;25,07;Ingressou;Outros;Outros;1
+94978-PUN;Feminino;36;Não;Punjab;2;8;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Sim;Cartão de Crédito;19,45;69,25;0;0;8,34;77,59;Ingressou;Outros;Outros;1
+96967-CHH;Feminino;33;Não;Chhattisgarh;5;8;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;89,35;89,35;0;0;5,36;94,71;Ingressou;Outros;Outros;1
+99996-HAR;Masculino;22;Sim;Haryana;2;8;Oferta 5;Sim;Não;Sim;ADSL;Sim;Sim;Não;Não;Não;Não;Sim;Sim;Mês-a-mês;Sim;Cartão de Crédito;53,55;53,55;0;0;16,06;69,61;Ingressou;Outros;Outros;1
+74651-WES;Feminino;30;Sim;West Bengal;7;23;Nenhum;Não;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cartão de Crédito;29,2;98,5;0;0;0;98,5;Ingressou;Outros;Outros;1
+74804-WES;Feminino;46;Não;West Bengal;0;5;Nenhum;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cartão de Crédito;69,6;207,4;0;20;86,91;314,31;Ingressou;Outros;Outros;1
+79342-KAR;Feminino;39;Sim;Karnataka;5;22;Nenhum;Sim;Não;Sim;ADSL;Sim;Não;Não;Sim;Sim;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;64,4;195,65;0;0;114,15;309,8;Ingressou;Outros;Outros;1
+79427-KAR;Masculino;67;Sim;Karnataka;12;21;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Débito em Conta;70,1;141,65;0;0;69,98;211,63;Ingressou;Outros;Outros;1
+81169-TEL;Feminino;62;Sim;Telangana;4;2;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;18,85;18,85;0;0;7,8;26,65;Ingressou;Outros;Outros;1
+81235-JHA;Feminino;42;Sim;Jharkhand;9;32;Oferta 5;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;44,9;44,9;0;0;15,76;60,66;Ingressou;Outros;Outros;1
+82118-JAM;Feminino;69;Sim;Jammu & Kashmir;3;6;Oferta 5;Não;Não;Sim;Cabo;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cheque;24,2;24,2;0;0;0;24,2;Ingressou;Outros;Outros;1
+82129-JHA;Feminino;26;Não;Jharkhand;9;8;Oferta 5;Sim;Não;Sim;ADSL;Não;Sim;Não;Não;Sim;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;58,7;168,6;0;0;34,41;203,01;Ingressou;Outros;Outros;1
+82170-TAM;Masculino;41;Não;Tamil Nadu;5;29;Nenhum;Sim;Não;Sim;ADSL;Não;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Não;Cheque;44,6;44,6;0;0;45,28;89,88;Ingressou;Outros;Outros;1
+83610-BIH;Feminino;66;Sim;Bihar;0;11;Oferta 5;Sim;Não;Sim;Fibra Óptica;Não;Não;Sim;Não;Não;Não;Não;Sim;Dois Anos;Sim;Débito em Conta;74,2;140,1;0;0;14,58;154,68;Ingressou;Outros;Outros;1
+85428-HAR;Feminino;62;Sim;Haryana;11;18;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,1;39,8;0;0;71;110,8;Ingressou;Outros;Outros;1
+85506-MAH;Feminino;23;Não;Maharashtra;0;10;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Um Ano;Não;Cartão de Crédito;20,2;34,75;0;0;76,82;111,57;Ingressou;Outros;Outros;1
+86970-KER;Masculino;57;Sim;Kerala;2;9;Nenhum;Sim;Não;Sim;ADSL;Não;Sim;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Débito em Conta;49,5;49,5;0;30;16,99;96,49;Ingressou;Outros;Outros;1
+88107-JAM;Feminino;58;Não;Jammu & Kashmir;10;34;Nenhum;Não;Não;Sim;ADSL;Não;Não;Não;Sim;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;30,55;30,55;0;40;0;70,55;Ingressou;Outros;Outros;1
+88111-MAH;Feminino;52;Sim;Maharashtra;15;32;Nenhum;Sim;Não;Sim;Fibra Óptica;Sim;Sim;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;83,4;83,4;0;0;43,06;126,46;Ingressou;Outros;Outros;1
+91835-GUJ;Masculino;21;Sim;Gujarat;12;5;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Sim;Sim;Sim;Sim;Sim;Sim;Mês-a-mês;Sim;Débito em Conta;75,5;75,5;0;0;5,63;81,13;Ingressou;Outros;Outros;1
+93700-MAH;Feminino;57;Não;Maharashtra;8;20;Oferta 5;Sim;Não;Sim;Cabo;Sim;Não;Não;Não;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;50,7;50,7;0;0;38,05;88,75;Ingressou;Outros;Outros;1
+95991-MAD;Feminino;37;Sim;Madhya Pradesh;0;32;Nenhum;Sim;Não;Sim;Cabo;Não;Não;Não;Sim;Não;Não;Não;Sim;Mês-a-mês;Sim;Cartão de Crédito;50,25;152,3;0;0;84,57;236,87;Ingressou;Outros;Outros;1
+98767-WES;Feminino;26;Não;West Bengal;14;7;Nenhum;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Não;Cartão de Crédito;20,05;20,05;0;0;11,1;31,15;Ingressou;Outros;Outros;1
+98788-TAM;Masculino;58;Sim;Tamil Nadu;4;16;Oferta 5;Sim;Não;Não;Nenhum;Não;Não;Não;Não;Não;Não;Não;Não;Mês-a-mês;Sim;Cheque;20,05;39,25;0;0;13,7;52,95;Ingressou;Outros;Outros;1
